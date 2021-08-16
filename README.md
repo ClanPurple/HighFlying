@@ -57,3 +57,7 @@ Items may be added to the list as project is underway.
 ## Minimum Viable Product
 
 At a bare minimum there will be a Linux based file server, Windows Server 2016, and Windows 10 outfitted with Gmail accounts on a Mozilla Thunderbird email client all integrated for maximum efficiency.
+
+## Project Topography
+
+![Network Topography](
