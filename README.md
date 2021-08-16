@@ -60,4 +60,4 @@ At a bare minimum there will be a Linux based file server, Windows Server 2016, 
 
 ## Project Topography
 
-![Network Topography](
+![Network Topography](ProjectTopo.png)
