@@ -2,12 +2,12 @@
 
 ## What We Offer
 
-### This team brings together years of experience. Josh specializes in networking and code, while Victor prefers the research aspect of things.  Marcus is the cloud expert and Harrison is the customer service extraordinair. 
+### This team brings together years of experience. Josh specializes in networking and code, while Victor prefers the research aspect of things.  Marcus is the cloud expert and Harrison is the customer service extraordinaire. 
 
 ### The diverse skills we bring to the table ensures our projects can meet the demands of all our clients. As a professional group we understand security and networking is an ever changing environment and strive on a daily basis to improve our skills. We each identify areas of weakness and work to improve those. 
 
     - Marcus works on the entire spectrum all the time.
-    - Victor spends time honeing his craft.
+    - Victor spends time honing his craft.
     - Josh depends on his adept decision making skills and works to improve them.
     - Harrison works tirelessly to ensure his personality invites engagement and professionalism.
 
@@ -22,7 +22,7 @@ All team members will be encouraged to speak up without bias. We are a group of 
 
 Should a member not be contributing, which has never happened in our history, all members will sit with a 3rd party to ensure proper resolusion.
 
-Flexibility is key. Not just in Tech, but in life.  All members will be afforded the opportunity to contribute on their schedule.
+Flexibility is key. Not just in technology, but in life.  All members will be afforded the opportunity to contribute on their schedule.
 
 ## Communication
 
